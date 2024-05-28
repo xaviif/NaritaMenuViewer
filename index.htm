@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  .item:nth-child(odd){
+    background-color: rgb(247, 218, 224);
+  }.item:nth-child(even){
+    background-color: rgb(255, 255, 255);
+  }
+  body, html, *{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    padding: 0; margin: 0;
+  }
+  .subsection{
+    font-size: 1.25em;
+    padding-bottom: 1em;
+  }
+  .item{
+    display: block;
+    padding: 3px;
+  }
+  .subsection h2{
+    font-weight: 800;
+    font-size: 1.25em;
+    margin-left: 15px;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .item p{
+    font-size: 1.05em;
+    padding-left: 1.25em;
+  }
+  .item b{
+    font-weight: 500;
+  }
+  #search-box{
+    font-size: 2em;
+    width: 100vw;
+    border-bottom: 2px solid black;
+    padding: 5px;
+  }
+  #sort-options{
+    font-size: 2.5em;
+    padding: 15px;
+    width: 10vw;
+    margin-left: 20px;
+  }
+  </style>
+</head>
+<body>
+  <div>
+    <input type="text" id="search-box" placeholder="Search menu items...">
+    <select id="sort-options">
+      <option value="name">Sort by Name</option>
+      <option value="price">Sort by Price</option>
+    </select>
+  </div>
+  <section id="menu">
+
+  </section>
+  <script>
+    function sortMenu(menuData, criterion) {
+      const sortedData = {};
+      Object.keys(menuData).forEach(section => {
+        sortedData[section] = menuData[section].slice().sort((a, b) => {
+          if (criterion === 'name') {
+            return a.name.localeCompare(b.name);
+          } else if (criterion === 'price') {
+            return a.price - b.price;
+          }
+        });
+      });
+      displayMenu(sortedData);
+    }
+    
+    // Function to display the menu
+    function displayMenu(menuData) {
+      console.log(menuData)
+      const menuContainer = document.getElementById('menu');
+      let build = '';
+      let headers = Object.keys(menuData);
+      headers.forEach((header)=>{
+        build+=`<div class='subsection ${header.split(" ", 1)[0]}'>`
+        build+=`<h2>${header}</h2>`
+        
+        let subsection = menuData[header]
+        subsection.forEach(item => {
+          console.log(item)
+          build += `<span class="item"> <p><b>${item.name}</b> - cost: ${item.price}</p>`;
+          build += `<p>${item.description || ''}</p> </span>`
+        })
+        build+="</div>"
+      })
+      menuContainer.innerHTML = build;
+    }
+
+    function filterMenu() {
+      const query = document.getElementById('search-box').value.toLowerCase();
+      const filteredData = {};
+
+      Object.keys(menuJSON).forEach(section => {
+        const filteredItems = menuJSON[section].filter(item =>
+          item.name.toLowerCase().includes(query) ||
+          (item.description ? item.description.toLowerCase().includes(query) : '') ||
+        ''
+        );
+
+        if (filteredItems.length > 0) {
+          filteredData[section] = filteredItems;
+        }
+      });
+
+      displayMenu(filteredData);
+    }
+    let menuJSON;
+    fetch('menu.json')
+      .then(response => response.json())
+      .then(data => {
+        displayMenu(data[0]);
+        menuJSON = data[0];
+        document.getElementById('search-box').addEventListener('input', filterMenu);
+        document.getElementById('sort-options').addEventListener('change', (e) => {
+          sortMenu(menuJSON, e.target.value);
+        });
+      })
+      .catch(error => {
+        console.log('Error loading menu data:', error);
+      });
+
+  </script>
+</body>
+</html>

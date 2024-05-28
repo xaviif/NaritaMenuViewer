@@ -1,0 +1,183 @@
+[{
+  "donburi":{
+    "oyako":{
+      "description":"Sauteed chicken, egg & onion on top of rice",
+      "price":15.95
+    },
+    "katsu":{
+      "description":"Breaded fried pork cutlet with egg & onion",
+      "price":15.95
+    },
+    "note":"In Traditional Donburi, the egg is half-cooked. Due to some customer's concerns, the egg can be cooked well-done unless requested otherwise."
+  },
+  "bento box":{
+    "description":"Served with Soup, Salad & Rice",
+    "price":17.95,
+    "entrees":[
+      "Gyoza (Pork or Chicken)",
+      "Shumai",
+      "Shumai Katsu",
+      "Yakitori",
+      "Katsu (Pork or Chicken)",
+      "Teriyaki (Chicken, Salmon, or Shrimp)",
+      "Yakisoba (No rice)",
+      "Yakizakana (Grilled Mackerel)"
+    ],
+    "maki roll":"Select 1 Maki roll from Lunch Maki Roll list"
+  },
+  "lunch maki roll list":[
+    "Tekka",
+    "Spicy Tekka",
+    "Spicy Salmon",
+    "California",
+    "Asparagus",
+    "New York",
+    "Spicy California",
+    "Boston",
+    "Philadelphia",
+    "Unagi",
+    "Oshinko",
+    "Alaska",
+    "Austin",
+    "Clyde",
+    "Spicy Asparagus",
+    "Kanpyo",
+    "Spicy Crunchy Salmon",
+    "Loubet",
+    "Spicy Crunchy Tekka"
+  ],
+  "teriyaki":{
+    "description":"Served with Salad & Rice",
+    "options":{
+      "chicken":{
+        "price":15.95
+      },
+      "salmon":{
+        "price":16.95
+      },
+      "shrimp":{
+        "price":16.95
+      },
+      "ribeye":{
+        "price":16.95
+      }
+    }
+  },
+  "sushi and sashimi":{
+    "description":"Served with Rice & Salad (Rice is for Sashimi only)",
+    "maki combo 1":{
+      "description":"Choose any two (2) maki from the list",
+      "price":14.95
+    },
+    "maki combo 2":{
+      "description":"Choose any three (3) maki from the list",
+      "price":17.95
+    },
+    "sushi 1":{
+      "description":"2 tuna, yellowtail, salmon, 2 fluke, masago & california maki",
+      "price":16.95
+    },
+    "sashimi 1":{
+      "description":"2 tuna, 1 yellowtail, 2 salmon, 1 crab, 1 ebi, 1 fluke, stripe bass",
+      "price":17.95
+    },
+    "sashimi 2":{
+      "description":"3 tuna, 3 yellowtail, 4 salmon",
+      "price":18.95
+    }
+  },
+  "udon and soba":{
+    "yaki soba":{
+      "description":"Sauteed soba noodle with cabbage Choice of Chicken, Beef or Shrimp",
+      "price":15.95
+    },
+    "yaki udon":{
+      "description":"Sauteed udon noodle with cabbage Choice of Chicken, Beef or Shrimp",
+      "price":15.95
+    },
+    "nabeyaki":{
+      "description":"Udon Soup",
+      "price":18.95
+    }
+  },
+  "regular drinks":[
+    {
+      "type":"Soda",
+      "options":[
+        "Coke",
+        "Diet Coke",
+        "Sprite",
+        "Ginger Ale",
+        "Club Soda"
+      ],
+      "price":4.00
+    },
+    {
+      "type":"Ramune",
+      "description":"Japanese soda with pop marble",
+      "price":5.00
+    },
+    {
+      "type":"Iced tea, Green Iced Tea",
+      "price":5.00
+    },
+    {
+      "type":"Juice",
+      "options":[
+        "Apple",
+        "Pineapple",
+        "Cranberry",
+        "Mango",
+        "Passion",
+        "Orange Juice"
+      ],
+      "price":5.00
+    },
+    {
+      "type":"Shirley Temple",
+      "price":6.00
+    },
+    {
+      "type":"Roy Roger",
+      "price":6.00
+    },
+    {
+      "type":"Calpico",
+      "price":6.00
+    },
+    {
+      "type":"Sparkling Water (33.80z)",
+      "price":10.50
+    }
+  ],
+  "mocktails":[
+    {
+      "name":"Old Fashion",
+      "price":11.00
+    },
+    {
+      "name":"Whiskey Sour",
+      "price":11.00
+    },
+    {
+      "name":"Margarita",
+      "price":11.00
+    },
+    {
+      "name":"Tequila Sunrise",
+      "price":11.00
+    },
+    {
+      "name":"Mint Tequila",
+      "price":11.00
+    },
+    {
+      "name":"Gin Tonic",
+      "price":11.00
+    },
+    {
+      "name":"Gin Cucumber Smash",
+      "price":11.00
+    }
+  ]
+}]

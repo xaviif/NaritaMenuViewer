@@ -1,0 +1,1331 @@
+[{
+  "sake":[
+    {
+        "name":"Hot Sake (Small)",
+        "price":11.00
+    },
+    {
+      "name":"Hot Sake (Large)",
+      "price":17.00
+    },
+    {
+        "name":"Ozeki Fancy Dry",
+        "price":12.00
+    },
+    {
+        "name":"Kikkusui Sparkling Sake",
+        "price":15.00
+    },
+    {
+        "name":"Miyaki Shoju (cup)",
+        "price":12.00
+    },
+    {
+        "name":"Chika One Cup",
+        "price":12.00
+    },
+    {
+        "name":"Nigori Sake",
+        "price":17.00
+    },
+    {
+        "name":"Hanaawaka Sparkling Sake",
+        "price":18.00
+    },
+    {
+        "name":"Shirakaba Junmai Ginjo",
+        "price":20.00
+    },
+    {
+        "name":"Hakushika Plum Sake",
+        "price":22.00
+    },
+    {
+        "name":"Kurosawa Junmai Kimoto",
+        "price":22.00
+    },
+    {
+        "name":"Daissai 45 Junmai Dai-Ginjo",
+        "price":29.00
+    },
+    {
+        "name":"Kubota Junmai Dai-Ginjo",
+        "price":31.00
+    }
+  ],
+  "red wine":[
+    {
+        "name":"Mcmanis Petite Syrah",
+        "location":"Ava, California",
+        "price":"10.00 / 34.95"
+    },
+    {
+        "name":"Montes Cabernet Sauvignon",
+        "description":"Dry, Chile",
+        "price":"10.00 / 34.95"
+    },
+    {
+        "name":"Canyon Road Pinot Noir",
+        "location":"Monterey, California",
+        "price":"10.00 / 34.95"
+    },
+    {
+        "name":"Montes Malbec",
+        "description":"Dry & full body, Chile",
+        "price":"11.00 / 34.95"
+    },
+    {
+        "name":"Paul Buisse Chinon",
+        "price":"12.00 / 39.95"
+    },
+    {
+        "name":"Mouton Cadet Bordeaux",
+        "price":"14.00 / 42.95"
+    }
+  ],
+  "specialty wine":[
+    {
+        "name":"Plum wine by Kikkoman",
+        "price":"10.00 / 34.95"
+    },
+    {
+        "name":"Sake wine (Peach, Apple, or Lychee)",
+        "price":"10.00 / 34.95"
+    },
+    {
+        "name":"Choya plum wine",
+        "description":"With plum fruit",
+        "price":"11.00 / 37.95"
+    }
+  ],
+  "white wine":[
+    {
+        "name":"Canyon Road Chardonnay",
+        "location":"Monterey, California",
+        "price":"9.00 / 31.95"
+    },
+    {
+        "name":"Capposado Pinot Grigio",
+        "location":"Della Venezie DOC, Italy",
+        "price":"10.00 / 34.95"
+    },
+    {
+        "name":"Dashwood Sauvignon Blanc",
+        "location":"Marlborough, NZ",
+        "price":"11.00 / 37.95"
+    },
+    {
+        "name":"Barton & Guestier Rose",
+        "location":"Tourmaline, Cotes De Provence",
+        "price":"12.00 / 37.95"
+    },
+    {
+        "name":"Pacific Rim Dry Riesling",
+        "location":"Columbia valley, Washington",
+        "price":"11.00 / 37.95"
+    },
+    {
+        "name":"Hess Chardonnay",
+        "location":"Monterey, California",
+        "price":"11.00 / 37.95"
+    },
+    {
+        "name":"Candoni Moscato",
+        "location":"Italy",
+        "price":"11.00 / 37.95"
+    },
+    {
+        "name":"Remy Sparkling Blanc",
+        "price":"12.00 / 37.95"
+    }
+  ],
+  "house special cocktail":[
+    {
+        "name":"Bonzai",
+        "description":"Sake & plum wine",
+        "price":11.00
+    },
+    {
+        "name":"Samurai",
+        "description":"Vodka & plum wine",
+        "price":12.00
+    },
+    {
+        "name":"Orange Passion",
+        "price":12.00
+    },
+    {
+        "name":"Momojito",
+        "description":"Peach sake, passion vodka, fresh lime, oba, soda",
+        "price":12.00
+    },
+    {
+        "name":"Sake-St. Germain",
+        "price":14.00
+    },
+    {
+        "name":"Indigo Mangotini",
+        "description":"Vodka, blue curacao, passion/ mango juice",
+        "price":14.00
+    },
+    {
+        "name":"Ginzatini",
+        "description":"Midori, vodka, pineapple sake and juice",
+        "price":14.00
+    },
+    {
+        "name":"Peachitini",
+        "description":"Peach sake, st-germain, pj",
+        "price":14.00
+    }
+  ],
+  "beer":[
+    {
+        "name":"Asahi",
+        "price":6.50
+    },
+    {
+        "name":"Kirin",
+        "price":6.50
+    },
+    {
+        "name":"Kirin lights",
+        "price":6.50
+    },
+    {
+        "name":"Asahi 00",
+        "price":6.50
+    },
+    {
+        "name":"Michelob ultra-organic",
+        "price":6.50
+    },
+    {
+        "name":"Sapporo lights",
+        "price":6.50
+    },
+    {
+        "name":"Sapporo (large)",
+        "price":8.00
+    },
+    {
+        "name":"Hitachino, Sapporo Black",
+        "price":12.00
+    }
+  ],
+  "margarita":[
+    {
+        "name":"Lychee",
+        "price":12.00
+    },
+    {
+        "name":"Watermelon",
+        "price":12.00
+    },
+    {
+        "name":"Peach",
+        "price":12.00
+    },
+    {
+        "name":"Melon",
+        "price":12.00
+    },
+    {
+        "name":"Ginger Jalapeno",
+        "price":12.00
+    },
+    {
+        "name":"Lime",
+        "price":12.00
+    },
+    {
+        "name":"Matcha",
+        "price":12.00
+    }
+  ],
+  "special drinks":[
+      {
+          "name":"Passion Seppun",
+          "description":"Passion vodka, triple sec, lime, passion juice",
+          "price":14.00
+      },
+      {
+          "name":"Sangria (Boba or no Boba?)",
+          "price":15.00
+      },
+      {
+          "name":"Plum",
+          "description":"Vodka, plum wine, lime juice, pineapple juice",
+          "price":15.00
+      },
+      {
+          "name":"Passion",
+          "description":"Passion vodka, pineapple sake, lime & pineapple juice",
+          "price":15.00
+      },
+      {
+          "name":"Lychee",
+          "description":"Lychee sake, remy champagne, triple sec, remy brandy",
+          "price":15.00
+      },
+      {
+          "name":"Matcha",
+          "description":"Matcha sake, lime, remy champagne, remy brandy, soda",
+          "price":15.00
+      },
+      {
+          "name":"Pineapple",
+          "description":"Pineapple sake, vodka, lime juice, remy champagne",
+          "price":15.00
+      },
+      {
+          "name":"Mango",
+          "description":"Mango vodka, apple sake, remy champagne, brandy, lime",
+          "price":15.00
+      }
+  ],
+  "appetizers":[
+    {
+        "name":"Haru maki",
+        "description":"Japanese style spring rolls",
+        "price":6.00
+    },
+    {
+        "name":"Edamame",
+        "description":"Steamed soybean with sea salt",
+        "price":6.00
+    },
+    {
+        "name":"Shumai",
+        "description":"Steamed crab meat dumplings",
+        "price":6.00
+    },
+    {
+        "name":"Shumai Katsu",
+        "description":"Breaded fried crab meat dumplings",
+        "price":6.50
+    },
+    {
+        "name":"Gyoza",
+        "description":"Pan fried pork or chicken dumplings or shrimp or vegetable",
+        "price":6.50
+    },
+    {
+        "name":"Yakitori (2po)",
+        "description":"Chicken thigh skewers with onion & pepper",
+        "price":9.00
+    },
+    {
+        "name":"Agedashi Tofu",
+        "description":"Lightly fried bean curd",
+        "price":9.00
+    },
+    {
+        "name":"Tasta-age",
+        "description":"Japanese style fried chicken nugget",
+        "price":10.00
+    },
+    {
+        "name":"Kaki-fry",
+        "description":"Fried Japanese oysters",
+        "price":10.00
+    },
+    {
+        "name":"Yasai Itame",
+        "description":"Sautéed hibachi style mixed vegetables",
+        "price":10.00
+    },
+    {
+        "name":"Yakisoba",
+        "description":"Sautéed soba noodle w. cabbage & scallion",
+        "price":11.00
+    },
+    {
+        "name":"Ebi Lollipop",
+        "description":"Fried jumbo shrimp wrapped in shredded potato served with spicy mayo dipping sauce",
+        "price":11.00
+    },
+    {
+        "name":"Yaki Udon with Vegetables",
+        "description":"Stir-fried thick Japanese wheat noodles with vegetables",
+        "price":11.00
+    },
+    {
+        "name":"Shishito peppers",
+        "description":"Charred shishito pepper with ponzu sauce and dry bonito flakes (seasonal)",
+        "price":11.00
+    },
+    {
+        "name":"Mushroom Butter Yaki",
+        "description":"Enoki, king and clamshell mushroom sautéed in sake butter sauce",
+        "price":12.00
+    },
+    {
+        "name":"Tempura Appetizer",
+        "description":"Battered and fried shrimp and vegetables",
+        "price":12.00
+    },
+    {
+        "name":"Yaki shrimp (4 pe)",
+        "description":"Grilled shrimp with ginger sauce",
+        "price":12.00
+    },
+    {
+        "name":"Negimaki",
+        "description":"Thinly sliced ribeye rolled with scallion",
+        "price":12.00
+    },
+    {
+        "name":"Rock Shrimp Tempura",
+        "description":"Battered fried rock shrimp",
+        "price":12.00
+    },
+    {
+        "name":"Xo Edamame",
+        "description":"Edamame sautéed with spicy XO sauce",
+        "price":12.00
+    },
+    {
+        "name":"Xo Shishito Peppers",
+        "description":"Shishito peppers sautéed with spicy XO sauce",
+        "price":14.00
+    }
+  ],
+  "soups":[
+    {
+        "name":"Mushroom Clear Soup",
+        "price":4.50
+    },
+    {
+        "name":"Miso Soup",
+        "price":4.50
+    },
+    {
+        "name":"Japanese Onion Soup",
+        "price":5.00
+    }
+  ],
+  "sushi appetizers":[
+    {
+        "name":"Sushi Appetizers",
+        "price":11.00
+    },
+    {
+        "name":"Kani Sunomono",
+        "description":"Crab and Kirby cucumbers mixed with vinaigrette dressing",
+        "price":12.00
+    },
+    {
+        "name":"Tako Wasabi",
+        "description":"Raw octopus with strong wasabi sauce",
+        "price":12.00
+    },
+    {
+        "name":"Ankimo Appetizer",
+        "description":"Japanese Paté, Steamed monkfish liver with sake",
+        "price":14.00
+    },
+    {
+        "name":"Tako Sunomono",
+        "description":"Octopus and Kirby cucumbers mixed with vinaigrette dressing",
+        "price":17.00
+    },
+    {
+        "name":"Sake Kama",
+        "description":"Grilled fresh whole salmon collar with ponzu sauce",
+        "price":18.00
+    },
+    {
+        "name":"Magubomb",
+        "description":"Half avocado stuffed with mixed crunchy salmon, tuna, and caviar in spicy wasabi sauce",
+        "price":18.00
+    },
+    {
+        "name":"Baby Yellowtail Jalapeno Appetizer",
+        "description":"Served with sliced jalapeño peppers and ponzu sauce",
+        "price":18.00
+    },
+    {
+        "name":"Spicy Tuna Mango Appetizer",
+        "description":"Tuna with spicy mayo, caviar and mango",
+        "price":18.00
+    },
+    {
+        "name":"Crunchy Tower",
+        "description":"Spicy crunchy tuna, salmon, avocado and caviar topped with wasabi crackers",
+        "price":18.00
+    },
+    {
+        "name":"Hama Kama",
+        "description":"Grilled fresh whole yellowtail collar with ponzu sauce",
+        "price":20.00
+    },
+    {
+        "name":"Blacken Tuna Appetizer",
+        "description":"Seared tuna with black pepper crust. Drizzled with ponzu sauce.",
+        "price":22.00
+    }
+  ],
+  "salads":[
+    {
+        "name":"Green Salad",
+        "description":"Served with a choice of creamy ginger or carrot ginger dressing",
+        "price":"5.00 / 9.00"
+    },
+    {
+        "name":"Hijiki Salad",
+        "description":"Black seaweed",
+        "price":6.00
+    },
+    {
+        "name":"Chuka salad",
+        "description":"Green seaweed",
+        "price":6.00
+    },
+    {
+        "name":"Kani Salad",
+        "description":"Crab meat, caviar, japanese mayo",
+        "price":10.00
+    },
+    {
+        "name":"Avocado Salad",
+        "description":"Organic Hass avocado with mixed baby greens, and caviar. Served with ponzu sauce",
+        "price":15.00
+    },
+    {
+        "name":"Spicy Crunchy Tuna Salad",
+        "description":"Spicy tuna, mixed baby greens with ginger dressing",
+        "price":18.00
+    },
+    {
+        "name":"Spicy Salmon Skin Salad",
+        "description":"Spicy salmon skin, caviar, kappa in vinaigrette dressing",
+        "price":18.00
+    }
+  ],
+  "a la carte": [
+    {
+      "name": "Tuna",
+      "price": 4.00
+    },
+    {
+      "name": "Caviar",
+      "price": 4.00
+    },
+    {
+      "name": "Fresh Salmon",
+      "price": 4.00
+    },
+    {
+      "name": "Fluke",
+      "price": 4.00
+    },
+    {
+      "name": "Smoked Salmon",
+      "price": 4.00
+    },
+    {
+      "name": "Squid",
+      "price": 4.00
+    },
+    {
+      "name": "Akagai",
+      "price": 4.00
+    },
+    {
+      "name": "Tile",
+      "price": 4.00
+    },
+    {
+      "name": "Striped Bass",
+      "price": 4.00
+    },
+    {
+      "name": "Shrimp",
+      "price": 4.00
+    },
+    {
+      "name": "Tamago",
+      "price": 4.00
+    },
+    {
+      "name": "Mackerel",
+      "price": 4.00
+    },
+    {
+      "name": "Spanish Mackerel",
+      "price": 4.00
+    },
+    {
+      "name": "Hokkigai",
+      "price": 4.00
+    },
+    {
+      "name": "Octopus",
+      "price": 4.00
+    },
+    {
+      "name": "Eel*",
+      "price": 4.50
+    },
+    {
+      "name": "Salmon Roe*",
+      "price": 4.50
+    },
+    {
+      "name": "Yellowtail*",
+      "price": 4.50
+    },
+    {
+      "name": "Arctic Char*",
+      "price": 4.50
+    },
+    {
+      "name": "Gold Tobiko*",
+      "price": 4.50
+    },
+    {
+      "name": "Wasabiko*",
+      "price": 4.50
+    },
+    {
+      "name": "Red Tobiko*",
+      "price": 4.50
+    },
+    {
+      "name": "White Tuna*",
+      "price": 4.50
+    },
+    {
+      "name": "Black Marlin*",
+      "price": 4.50
+    },
+    {
+      "name": "Herring Roe*",
+      "price": 4.50
+    },
+    {
+      "name": "Amaebi (Sweet shrimp)*",
+      "price": 4.50
+    },
+    {
+      "name": "Snow Crab*",
+      "price": "MP"
+    },
+    {
+      "name": "Scallop*",
+      "price": "MP"
+    },
+    {
+      "name": "King Crab*",
+      "price": "MP"
+    },
+    {
+      "name": "Toro*",
+      "price": "MP"
+    },
+    {
+      "name": "Uni*",
+      "price": "MP"
+    }
+  ],
+  "sashimi":[
+    {
+      "name":"Narita Sashimi",
+      "description":"3 tuna, 3 white fish, 1 crab, 2 yellowtail and 3 salmon",
+      "price":27.95
+    },
+    {
+      "name":"Samurai Sashimi",
+      "description":"2 tuna, 2 yellowtail, 2 tako, 2 saba, 2 salmon, kani & white fish",
+      "price":29.95
+    },
+    {
+      "name":"Maguro & Hamachi Sashimi",
+      "description":"5 tuna & 5 yellowtail",
+      "price":29.95
+    }
+  ],
+  "sushi":[
+    {
+      "name":"Sushi Moriawase",
+      "description":"Served with Salad",
+      "price":22.95
+    },
+    {
+      "name":"Maki Combo",
+      "description":"Select any three (3) rolls from our Six-piece Maki or Vegetarian Maki list",
+      "price":26.95
+    },
+    {
+      "name":"Shogun",
+      "description":"Tuna, fluke, salmon, shrimp, crab, black marlin, striped bass, white tuna & salmon / avocado maki",
+      "price":26.95
+    },
+    {
+      "name":"Unaju",
+      "description":"Broiled eel with sauce on top of sushi rice",
+      "price":28.95
+    },
+    {
+      "name":"Taisho",
+      "description":"Tuna, yellowtail, tamago, 2 salmon, tobiko, mackerel, fluke, california maki",
+      "price":28.95
+    },
+    {
+      "name":"Maguro & Hamachi Sushi",
+      "description":"4 tuna, 4 yellowtail, & 1 sunshine maki",
+      "price":28.95
+    },
+    {
+      "name":"Chirashi",
+      "description":"Assorted raw fishes on top of sushi rice",
+      "price":28.95
+    },
+    {
+      "name":"Narita Sushi",
+      "description":"Select any eight (8) pieces from sushi a la carte list except ones marked with ** and one (1) roll from our Six-piece Maki or Vegetarian Maki list",
+      "price":30.95
+    },
+    {
+      "name":"Sushi Deluxe",
+      "description":"2 tuna, 2 yellowtail, tako, 2 saba, 2 salmon, eel, tobiko & white fish",
+      "price":32.00
+    },
+    {
+      "name":"Sushi & Sashimi Combo",
+      "price":37.00
+    }
+  ],  
+  "vegetable maki":[
+     {
+        "name":"Avocado Maki (Organic Hass)",
+        "price":7.00
+     },
+     {
+        "name":"Avocado Peanut Maki",
+        "price":7.00
+     },
+     {
+        "name":"Asupara (Spicy Asparagus) Maki",
+        "price":6.50
+     },
+     {
+        "name":"Avocado Kappa Maki",
+        "price":7.00
+     },
+     {
+        "name":"Kappa (Cucumber) Maki",
+        "price":6.00
+     },
+     {
+        "name":"Kanpyo (Japanese Squash) Maki",
+        "price":6.00
+     },
+     {
+        "name":"Natto Maki",
+        "description":"Fermented soy bean with scallion",
+        "price":6.00
+     },
+     {
+        "name":"Oshinko (Japanese Yellow Pickle) Maki",
+        "price":6.00
+     },
+     {
+        "name":"Sweet Tempura Maki",
+        "price":6.50
+     },
+     {
+        "name":"Shiitake Mushroom Maki",
+        "description":"Japanese-style marinated mushrooms",
+        "price":7.00
+     },
+     {
+        "name":"Ume Shiso Maki",
+        "description":"Japanese plum paste with mint leaves and kirby",
+        "price":7.00
+     }
+  ],
+  "five piece maki":[
+    {
+        "name":"Agnes",
+        "description":"Tuna, yellowtail, avocado & cucumber",
+        "price":8.75
+    },
+    {
+        "name":"Betty",
+        "description":"Tuna, shrimp, cucumber & asparagus",
+        "price":8.50
+    },
+    {
+        "name":"Caren",
+        "description":"Tuna, fresh salmon, avocado & radish sprout",
+        "price":8.75
+    },
+    {
+        "name":"Diana",
+        "description":"Tuna, caviar, avocado, cucumber & radish sprout",
+        "price":9.00
+    },
+    {
+        "name":"Elizabeth",
+        "description":"Yellowtail, fresh salmon, avocado & cucumber",
+        "price":9.00
+    },
+    {
+        "name":"Florence",
+        "description":"Yellowtail, scallion, spicy sauce & asparagus",
+        "price":9.25
+    },
+    {
+        "name":"Gina",
+        "description":"Yellowtail, eel, cucumber & scallion",
+        "price":9.25
+    },
+    {
+        "name":"Holly",
+        "description":"Eel, salmon skin, avocado & cucumber",
+        "price":9.25
+    },
+    {
+        "name":"Irene",
+        "description":"Eel, shrimp, asparagus & cucumber",
+        "price":9.75
+    },
+    {
+        "name":"Jade",
+        "description":"Eel, smoked salmon, shrimp & avocado",
+        "price":9.00
+    },
+    {
+        "name":"Kay",
+        "description":"Eel, smoked salmon, shrimp & crab",
+        "price":9.50
+    },
+    {
+        "name":"Laura",
+        "description":"Eel, tamago, caviar & scallion",
+        "price":9.00
+    },
+    {
+        "name":"Mary",
+        "description":"Salmon skin, shrimp, cucumber & radish sprout",
+        "price":9.00
+    },
+    {
+        "name":"Natasha",
+        "description":"Smoked salmon, crab, cucumber & avocado",
+        "price":9.00
+    },
+    {
+        "name":"Olivia",
+        "description":"Fresh salmon, avocado, cucumber, caviar, spicy sauce, tempura flakes",
+        "price":9.75
+    },
+    {
+        "name":"Peggy",
+        "description":"Salmon, scallion, spicy sauce, avocado, cucumber & caviar",
+        "price":9.50
+    },
+    {
+        "name":"Queenie",
+        "description":"Smoke salmon, onion, asparagus & cream cheese",
+        "price":9.00
+    },
+    {
+        "name":"Rosy",
+        "description":"Shrimp, crab, caviar, avocado & cucumber",
+        "price":9.25
+    },
+    {
+        "name":"Samantha",
+        "description":"Shrimp tempura, caviar, avocado & lettuce",
+        "price":9.50
+    },
+    {
+        "name":"Terry",
+        "description":"Spicy shrimp, tempura flake, asparagus & caviar",
+        "price":9.00
+    }
+  ],
+  "six piece maki":[
+    {
+        "name":"Alderton",
+        "description":"Eel & shrimp",
+        "price":8.00
+    },
+    {
+        "name":"Carlton",
+        "description":"Shrimp tempura, caviar & cucumber",
+        "price":8.00
+    },
+    {
+        "name":"Alaska",
+        "description":"Smoked salmon, caviar & avocado",
+        "price":8.00
+    },
+    {
+        "name":"Clyde",
+        "description":"Eel & avocado",
+        "price":8.00
+    },
+    {
+        "name":"Austin",
+        "description":"Tuna, caviar & avocado",
+        "price":8.00
+    },
+    {
+        "name":"Dartmouth",
+        "description":"Salmon tempura, caviar, avocado & spicy eel sauce",
+        "price":9.00
+    },
+    {
+        "name":"Boston",
+        "description":"Shrimp, cucumber, lettuce, japanese mayo",
+        "price":7.50
+    },
+    {
+        "name":"Exeter",
+        "description":"Yellowtail & fresh salmon",
+        "price":9.00
+    },
+    {
+        "name":"Booth",
+        "description":"Eel & smoked salmon",
+        "price":8.50
+    },
+    {
+        "name":"Fleet",
+        "description":"Spicy salmon & avocado",
+        "price":8.00
+    },
+    {
+        "name":"Burns",
+        "description":"Eel, caviar & scallion",
+        "price":8.75
+    },
+    {
+        "name":"Fairway",
+        "description":"Fresh salmon",
+        "price":7.75
+    },
+    {
+        "name":"California Maki",
+        "description":"Crab & avocado",
+        "price":7.00
+    },
+    {
+        "name":"Groton",
+        "description":"Tuna, fresh salmon & radish sprouts",
+        "price":8.00
+    },
+    {
+        "name":"Hawaii",
+        "description":"Smoked salmon, shrimp & caviar",
+        "price":8.00
+    },
+    {
+        "name":"Herrick",
+        "description":"Fresh salmon, cucumber & radish sprout",
+        "price":8.00
+    },
+    {
+        "name":"Jewel",
+        "description":"Yellowtail, caviar & avocado",
+        "price":8.25
+    },
+    {
+        "name":"Juno",
+        "description":"Shrimp tempura, avocado & spicy mayo",
+        "price":8.50
+    },
+    {
+        "name":"Kessel",
+        "description":"Yellowtail, spicy sauce, caviar & radish sprout",
+        "price":8.50
+    },
+    {
+        "name":"Loubet",
+        "description":"Shrimp, crab & avocado",
+        "price":8.00
+    },
+    {
+        "name":"Negi Hamachi Maki",
+        "description":"Yellowtail & scallion",
+        "price":8.00
+    },{
+      "name": "New York",
+      "desc": "Salmon skin & cucumber",
+      "price": 8.75
+    },
+    {
+      "name": "Overhill",
+      "desc": "Yellowtail, crab & caviar",
+      "price": 8.75
+    },
+    {
+      "name": "Onslow",
+      "desc": "Octopus & cucumber",
+      "price": 8.00
+    },
+    {
+      "name": "Spicy Tekka Maki",
+      "desc": "Tuna",
+      "price": 8.00
+    },
+    {
+      "name": "Unagi Maki",
+      "desc": "Eel & cucumber",
+      "price": 8.00
+    },
+    {
+      "name": "Underwood",
+      "desc": "Mackerel, caviar & cucumber",
+      "price": 8.00
+    },
+    {
+      "name": "Windsor",
+      "desc": "Tuna, caviar & fluke",
+      "price": 8.50
+    },
+    {
+      "name": "Spicy Tekka Avocado Maki",
+      "desc": "",
+      "price": 8.50
+    },
+    {
+      "name": "Stafford",
+      "desc": "Mackerel & scallion",
+      "price": 8.00
+    },
+    {
+      "name": "Spicy Crunchy Tekka Maki",
+      "desc": "",
+      "price": 8.50
+    },
+    {
+      "name": "Sunshine",
+      "desc": "Tuna & yellowtail",
+      "price": 8.00
+    },
+    {
+      "name": "Teka Maki",
+      "desc": "",
+      "price": 7.00
+    }
+  ],
+  "special maki":[
+    {
+      "name":"Crazy Monkey",
+      "description":"Wrapped outside: Eel, avocado & caviar",
+      "price":19.95
+    },
+    {
+      "name":"AKA Amit",
+      "description":"Inside: Spicy crunchy tuna. Wrapped outside: Soy paper wrap, tuna, salmon & fluke Topping: Black caviar",
+      "price":13.95
+    },
+    {
+      "name":"AKA David",
+      "description":"Yellowtail, mackerel, smoke salmon, asparagus and radish",
+      "price":14.95
+    },
+    {
+      "name":"AKA Richie",
+      "description":"Spicy crunchy white tuna with mango and jalapeño",
+      "price":14.95
+    },
+    {
+      "name":"Amazing",
+      "description":"Inside: Caviar, avocado and cucumber",
+      "price":16.95
+    },
+    {
+      "name":"Baby Jordan",
+      "description":"Eel, caviar, avocado & toasted smoked salmon",
+      "price":15.95
+    },
+    {
+      "name":"Dragon",
+      "description":"Eel inside with avocado wrap",
+      "price":20.95
+    },
+    {
+      "name":"Firecracker",
+      "description":"Spicy white tuna, tempura flakes, jalapeño, caviar & kirby cucumbers",
+      "price":17.95
+    },
+    {
+      "name":"Fusion",
+      "description":"Crispy fried soy paper rolled w. fresh salmon, yellowtail, tuna, avocado & caviar",
+      "price":20.95
+    },
+    {
+      "name":"Garden Maki",
+      "description":"Avocado wrap roll with mix vegetables",
+      "price":15.95
+    },
+    {
+      "name":"Gold Dragon",
+      "description":"Eel inside with mango wrap",
+      "price":17.95
+    },
+    {
+      "name":"Hulk",
+      "description":"Inside: Shrimp tempura & kappa Wrapped outside: Eel, avocado & caviar",
+      "price":19.95
+    },
+    {
+      "name":"Lobster Salad Maki",
+      "description":"Lobster salad with caviar wrap in soy paper",
+      "price":15.95
+    },
+    {
+      "name":"OMG",
+      "description":"Spicy tuna, mango & jalapeño",
+      "price":15.95
+    },
+    {
+      "name":"Pearl",
+      "description":"Spicy tuna, tempura flake, avocado, caviar & mayo",
+      "price":15.95
+    },
+    {
+      "name":"Passion",
+      "description":"Inside: Cream cheese w, toasted salmon, avocado & crab Outside: Shrimp & caviar",
+      "price":17.95
+    },
+    {
+      "name":"Rainbow",
+      "description":"Inside: California w. yellowtail, tuna, fresh salmon Wrap: White fish",
+      "price":17.95
+    },
+    {
+      "name":"Sky Beauty",
+      "description":"Spicy mix of yellowtail, tuna, caviar & tempura flake",
+      "price":15.95
+    },
+    {
+      "name":"Spicy Scallop Maki",
+      "description":"Crunchy scallops chopped and mixed with spicy sauce, caviar & mayo",
+      "price":18.95
+    },
+    {
+      "name":"Spiderman",
+      "description":"Caviar, kappa and soft shelled crab tempura w, lettuce & mayo",
+      "price":16.95
+    },
+    {
+      "name":"Salmon Broken Heart",
+      "description":"Inside: Caviar, avocado and cucumber. Wrapped outside: Fresh salmon, avocado & caviar Topping: spicy sauce, scallion & sesame seeds",
+      "price":15.95
+    },
+    {
+      "name":"Super Naruto",
+      "description":"Yellowtail, tuna, caviar, fresh salmon w. cucumber wrap (no rice)",
+      "price":16.95
+    },
+    {
+      "name":"Tuna Broken Heart",
+      "description":"Inside: Caviar, avocado & cucumber. Wrapped outside: Tuna, avocado & caviar. Topping: Spicy sauce, scallion & sesame seeds",
+      "price":17.95
+    },
+    {
+      "name":"Yasai Maki",
+      "description":"Mixed vegetable with inari tofu",
+      "price":10.95
+    }
+  ],
+  "udon soba rice":[
+    {
+        "name":"Yaki Soba",
+        "description":"Sautéed soba noodles, with a choice of shrimp, chicken, beef or mixed vegetables",
+        "price":18.00
+    },
+    {
+        "name":"Yaki Udon",
+        "description":"Sautéed udon noodles, with a choice of shrimp, chicken, beef or mixed vegetables",
+        "price":19.00
+    },
+    {
+        "name":"Yaki Meshi",
+        "description":"Our signature fried rice with mixed vegetables and egg. Add protein for extra $2",
+        "price":18.00
+    },
+    {
+        "name":"Seafood Udon",
+        "description":"Sautéed crab, salmon, shrimp & vegetable in a creamy sauce",
+        "price":22.95
+    },
+    {
+        "name":"Nabeyaki Udon Soup",
+        "description":"Clam, shrimp, tempura, egg, chicken, vegetables, and noodles in dashi broth",
+        "price":22.95
+    }
+  ],
+  "traditional fare":[
+    {
+        "name":"Saba Shioyaki",
+        "description":"Grilled wild mackerel seasoned with light sea salt",
+        "price":26.00
+    },
+    {
+        "name":"Salmon Shioyaki",
+        "description":"Grilled wild salmon seasoned with light sea salt",
+        "price":26.00
+    },
+    {
+        "name":"Chicken Katsu",
+        "description":"Breaded and crispy fried white meat chicken breast cutlet",
+        "price":25.00
+    },
+    {
+        "name":"Pork Katsu",
+        "description":"Breaded and crispy fried center cut pork loin cutlet",
+        "price":25.00
+    },
+    {
+        "name":"Tempura",
+        "description":"Battered fried shrimp, chicken, or vegetable",
+        "price":25.00
+    },
+    {
+        "name":"Chicken Sukiyaki",
+        "description":"Japanese hotpot of chicken with vegetables, tofu, bean noodle in broth",
+        "price":30.00
+    },
+    {
+        "name":"Beef Sukiyaki",
+        "description":"Japanese hotpot of beef with vegetables, tofu, bean noodle in broth",
+        "price":30.00
+    },
+    {
+        "name":"Narita Gohan",
+        "description":"Steamed clay pot rice with clams, scallop, chicken, salmon and vegetables",
+        "price":38.00
+    },
+    {
+        "name":"Miso Glazed Chilean Seabass",
+        "description":"Broiled Chilean seabass with organic miso glazed",
+        "price":38.00
+    }
+  ]
+  ,
+  "dishes":[
+        {
+           "name":"Teriyaki",
+           "description":"Choice of Flavors: Chicken, Shrimp, Ribeye beef, Wild Salmon, or Vegetables, Filet Mignon (+$3.00)",
+           "price":25.95
+        },
+        {
+           "name":"Ribeye steak (uncut) with garlic butter",
+           "price":28.95
+        },
+        {
+           "name":"Wild salmon with garlic butter",
+           "price":28.95
+        },
+        {
+           "name":"Lobster Tail with Black Pepper Sauce",
+           "price":39.95
+        },
+        {
+           "name":"Chilean Seabass with Black Pepper Sauce",
+           "price":39.95
+        },
+        {
+           "name":"Teriyaki Combination",
+           "description":"Choose 2 of Teriyaki flavors: Chicken, Shrimp, Ribeye beef, Wild Salmon, or Vegetables, Filet Mignon (+$3.00), Lobster or Chilean Seabass (+$6.00)",
+           "price":33.95
+        }
+  ],
+  "hibachi":[
+    {
+        "name":"Filet Mignon",
+        "price":30.00
+    },
+    {
+        "name":"Ribeye beef",
+        "price":30.00
+    },
+    {
+        "name":"Wild Salmon",
+        "price":30.00
+    },
+    {
+        "name":"Shrimp",
+        "price":30.00
+    },
+    {
+        "name":"Vegetables",
+        "price":30.00
+    },
+    {
+        "name":"Nara",
+        "description":"Any 2 hibachi choice except lobster tail",
+        "price":38.95
+    },
+    {
+        "name":"Lobster Tail Hibachi",
+        "price":40.95
+    },
+    {
+        "name":"Lobster Tail + 1 Hibachi Choice",
+        "price":48.95
+    },
+    {
+        "name":"Hibachi Fried Rice",
+        "description":"Vegetables & egg",
+        "price":6.00
+    }
+  ],
+  "desserts":[
+      {
+          "name":"Yokan (Vegan)",
+          "price":5.00
+      },
+      {
+          "name":"Ice Cream",
+          "price":5.00
+      },
+      {
+          "name":"Mochi Ice Cream",
+          "price":5.00
+      },
+      {
+          "name":"Tempura Fried Ice Cream",
+          "price":7.00
+      },
+      {
+          "name":"Triple Chocolate Mousse Cake",
+          "price":7.00
+      },
+      {
+          "name":"Red Velvet Cake",
+          "price":7.00
+      },
+      {
+          "name":"Japanese Crepe Cake",
+          "price":9.95
+      },
+      {
+          "name":"Chocolate Chip Lava Cake with 1 Scoop of Ice Cream",
+          "price":9.95
+      }
+  ],
+  "hot beverages":[
+    {
+        "name":"Organic Genmaicha",
+        "description":"Green tea with Roasted Brown Rice",
+        "price":5.00
+    },
+    {
+        "name":"Organic black tea",
+        "price":5.00
+    },
+    {
+        "name":"Organic Coffee",
+        "price":5.00
+    }
+  ]
+}]
